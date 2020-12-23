@@ -1,12 +1,8 @@
 # STA304-Final-Project
 
 Two data sets are used in this project.
-
-Raw survey data, 2019 Canadian Election Study - Online Survey is downloaded from https://doi.org/10.7910/DVN/DUS88V
  
 Raw survey data("2019 Canadian Election Study - Online Survey v1.0.dta.zip") is too large and so has trouble to upload. So I zip the file. Please download it and unzip the file if needed.
-
-Raw census data, General social survey on Family (cycle 31), 2017 is downloaded from https://sda-artsci-utoronto-ca.myaccess.library.utoronto.ca/cgi-bin/sda/hsda?harcsda4+gss31
 
 Raw census data("AAu01LGi.csv.zip") is also large, and so I zip the file. Please download it and unzip the file if needed.
 
